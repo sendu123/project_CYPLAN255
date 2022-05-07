@@ -10,7 +10,9 @@ Silicon Valley, with a bright economic future, is now facing a serious ecologica
 
 #### 1.2 Umbrellar Species
 At the same time, we find that **Bay Checkerspot Butterfly** is a key umbrella species that protects many native animals and plants in Silicon Valley. So it seems like butterflies can help build a new ecological future in Silicon Valley. 
+
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/umbrella.png)
+
 However, in the study of bay checkerspot butterfly, it was found that they are rapidly declining. It’s imperative and imminent that we should pay more attention to such important species. Therefore, the goal of this project was to create a tool for generating the suitability map and find out where the best places to build butterfly habitats are in San Jose. 
 
 ### 2.Methodology and Data
@@ -22,8 +24,8 @@ However, in the study of bay checkerspot butterfly, it was found that they are r
 ###### History maps to geopandas
 ###### History maps to geopandas
 #### Data overlay
-#### Suitability of caterpillar phase
-#### Suitability of butterfly phase
+###### Suitability of caterpillar phase
+###### Suitability of butterfly phase
 #### Suitability of Bay Checkerspot Butterfly
 
 
