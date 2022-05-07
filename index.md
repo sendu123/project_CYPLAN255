@@ -6,6 +6,7 @@
 ### 1.Background
 #### 1.1 Pollution And Health Risks
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/background.png)
+
 Silicon Valley, with a bright economic future, is now facing a serious ecological pollution crisis, including dust pollution, chemical pollution, water pollution and health problems. So we are thinking about finding an ecological method to dream a new future for silicon valley, to protect the native species.
 
 #### 1.2 Umbrellar Species
