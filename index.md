@@ -10,7 +10,7 @@
 Silicon Valley, with a bright economic future, is now facing a serious pollution crisis, including dust pollution, chemical pollution, water pollution and health problems. So we are thinking about finding an ecological method to dream a new future for silicon valley, to protect the native species.
 
 #### 1.2 An Important Umbrellar Species
-After doing a lot of research, I realized that saving a random species isn't going to help silicon Valley build a stable ecosystem. So this ecological future needs an important starting point. We find that **Bay Checkerspot Butterfly** is a key umbrella species that protects many native animals and plants in Silicon Valley. As an important pollinator, this means the tiny butterfly can provide protection for a wide variety of native animals and plants. Therefore, it seems like butterflies can help build a new ecological future in Silicon Valley. 
+After doing a lot of research, I realized that saving a random species isn't going to help silicon Valley build a stable ecosystem. So this ecological future needs an important starting point. I find that **Bay Checkerspot Butterfly** is a key umbrella species that protects many native animals and plants in Silicon Valley. As an important pollinator, this means the tiny butterfly can provide protection for a wide variety of native animals and plants. Therefore, it seems like butterflies can help build a new ecological future in Silicon Valley. 
 
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/umbrella.png)
 
@@ -21,25 +21,44 @@ However, in the study of bay checkerspot butterfly, it was found that they are r
 ### 2.Methodology And Data
 #### 2.1 Methodolog
 Researching needs of Bay Checkerspot Butterfly
+
 Divide the needs of different life stages
+
 Collecting data
+
 Shapefile to geopandas
+
 Buffer and kernel density
+
 History maps to geopandas
+
 History maps to geopandas
+
 Data overlay
+
 Suitability of caterpillar phase
+
 Suitability of butterfly phase
+
 Suitability of Bay Checkerspot Butterfly
+
 #### 2.2 Data Sources
 California plants Data: https://www.calflora.org/app/taxon?crn=1690
+
 California plants Data: https://www.calflora.org/app/taxon?crn=1695
+
 California plants Data: https://www.calflora.org/app/taxon?crn=6615
+
 California plants Data: https://www.calflora.org/app/taxon?crn=4952
+
 California plants Data: https://www.calflora.org/app/taxon?crn=4649
+
 California plants Data: https://www.calflora.org/app/taxon?crn=4577
-Land Use Classification Data: https://gisdata-csj.opendata.arcgis.com/pages/tree-canopy-and-land-use-classification(
+
+Land Use Classification Data: https://gisdata-csj.opendata.arcgis.com/pages/tree-canopy-and-land-use-classification
+
 Aerial Imagery and Elevation: https://gisdata-csj.opendata.arcgis.com/pages/imagery-and-elevation
+
 Road System Data: https://gisdata-csj.opendata.arcgis.com/maps/CSJ::public-street
 
 
@@ -94,12 +113,12 @@ In the Butterfly Stage, butterflies also need nectar plants for food. Here is th
 
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/butter%20plant.png) 
 
-I use the same method to get the **Kernel Density** of nectar plants.
+I used the same method to get the **Kernel Density** of nectar plants.
 
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/b_plant5.png)
 
 #### 4.2.2 Living near ridgelines
-Butterflies need ridgelines to mate, and I also get the distribution of Ridgelines as well as a 200 meter buffer because butterflies and caterpillars have different flying abilities.
+Butterflies need ridgelines to mate, and I also get the distribution of Ridgelines as well as a **200 meter buffer** because butterflies and caterpillars have different flying abilities.
 
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/b_ridge6.png)
 
@@ -111,7 +130,7 @@ I also get the distribution of wetlands in San Jose because butterflies need wat
 ### 5.Results---Suitability Map
 Eventually, I used raster calculator to combine all layers to two suitability maps respectively for Caterpillar and Butterfly. Because in the previous stage, we graded each cell in each layer. Now each cell in different layers has different scores. I reclassified the scores in each image and add the scores of each pixel in different images to form two suitable maps for both butterflies and caterpillars. And overlay the two suitability map to get the fianl suitability map.
 
-![](https://github.com/sendu123/project_CYPLAN255/blob/gh-pages/drawings/map_final.png)
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/map_final.png)
 
 In the future, these area with the highest scores will have the biggist chance to build a habitat for bay checkerspot butterfly. Once the butterfly species are established, the native plants and animals under the "umbrella" will be protected, and the chance of an ecological future of Silicon Valley will be established.
 
