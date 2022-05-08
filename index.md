@@ -50,7 +50,18 @@ The key findings focus on habitats that are suitable for three stages of the but
 ##### 4.1.1 Living on low shrubs
 First, in the Caterpillar Stage, our key finding is that caterpillars need to hang on small bushes to absorb heat from the ground. So we use geopandas to visualize the distribution of four kinds of low shrubs. There are four different colors in this map representing these shrubs. Then overlay the distribution and topography to help people better understand the context. Also, rate four types of shrubs, the best for caterpillars to live wins the highest point.
 
-![](https://github.com/sendu123/project_CYPLAN255/blob/gh-pages/drawings/c1%20-%20%E5%89%AF%E6%9C%AC.png) 
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c_shrub2.png) 
+
+##### 4.1.2 Living near ridgelines
+Caterpillars should be near ridge lines because butterflies need to spawn and mate at ridgelines. So we visualize the distribution of ridge lines through geopandas.
+
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c_ridge1.png) 
+
+##### 4.1.3 Living in serpentine soil
+
+Caterpillars need to diapause in serpentine soil, which allows butterfly larvae or chrysalises to live in it and prevents animals from trampling on it. The source of the soil data is from a historic distribution map, I used georeference tools to get the coordinates, and finally generate the area in geopandas.
+
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c_soil3.png) 
 
 
 
