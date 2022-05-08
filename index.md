@@ -43,7 +43,7 @@ However, in the study of bay checkerspot butterfly, it was found that they are r
 ### 3.Life cycle of butterfly
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/life.png)
 
-The key findings focus on habitats that are suitable for three stages of the butterfly's life cycle, including **Caterpillar stage, butterfly stage**. The reason for having these three periods is that caterpillars and butterflies have different ranges of activities.
+The key findings focus on habitats that are suitable for two stages of the butterfly's life cycle, including **Caterpillar stage, butterfly stage**. The reason for having these three periods is that caterpillars and butterflies have different ranges of activities.
 
 ### 4.Key Findings
 In this part, we use python to generate to distributions of certain needs and overlay the distribution and topography to help people better understand the context. Also, rate diffrent kinds of needs, the best one for caterpillars or butterflies to live wins the highest point. This rating systerm can halp create the final suitability map in the next step.
@@ -103,3 +103,8 @@ Butterflies need ridgelines to mate, and I also get the distribution of Ridgelin
 I also get the distribution of wetlands in San Jose because butterflies need waterlands for drinking water.
 
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/b_water7.png)
+
+### 5.Results---Suitability Map
+Eventually, we used raster calculator to combine all layers to two suitability maps respectively for Caterpillar and Butterfly. Because in the previous stage, we graded each layer. Now each pixel in different images has different scores. I reclassify the scores in each image and add the scores of each pixel in different images to form two suitable maps for butterflies and caterpillars.
+
+![](https://github.com/sendu123/project_CYPLAN255/blob/gh-pages/drawings/map_final.png)
