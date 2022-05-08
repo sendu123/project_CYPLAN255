@@ -5,7 +5,7 @@
 
 ### 1.Background
 #### 1.1 Pollution And Health Risks
-![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/umbrella.png)
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/background.png)
 
 Silicon Valley, with a bright economic future, is now facing a serious ecological pollution crisis, including dust pollution, chemical pollution, water pollution and health problems. So we are thinking about finding an ecological method to dream a new future for silicon valley, to protect the native species.
 
@@ -49,7 +49,9 @@ The key findings focus on habitats that are suitable for three stages of the but
 #### 4.1 Needs of Caterpillar
 ##### 4.1.1 Living on low shrubs
 First, in the Caterpillar Stage, our key finding is that caterpillars need to hang on small bushes to absorb heat from the ground. So we use geopandas to visualize the distribution of four kinds of ow shrubs. There are four different colors in this map representing these shrubs. Then overlay the distribution and topography to help people better understand the context. Also, rate four types of shrubs, the best for caterpillars to live wins the highest point.
-![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/bush.png) ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c1.png)
+
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/bush.png) 
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c1.png)
 
 
 
