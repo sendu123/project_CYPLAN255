@@ -111,7 +111,7 @@ Eventually, we used raster calculator to combine all layers to two suitability m
 
 In the future, these area with the highest scores will have the biggise chance to build a habitat for bay checkerspot butterfly. Once the butterfly species are established, the native plants and animals under the "umbrella" will be protected, and the chance of an ecological future of Silicon Valley will be established.
 
-### 6.Contect
+### Contact
 #### Final project for CYPLAN255
 #### Sen Du (sen_du@berkeley.edu)
 #### Professor: Max Gardner
