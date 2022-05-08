@@ -43,15 +43,15 @@ However, in the study of bay checkerspot butterfly, it was found that they are r
 ### 3.Life cycle of butterfly
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/life.png)
 
-The key findings focus on habitats that are suitable for three stages of the butterfly's life cycle, including Caterpillar stage, butterfly stage and full lifecycle threats. The reason for having these three periods is that caterpillars and butterflies have different ranges of activities.
+The key findings focus on habitats that are suitable for three stages of the butterfly's life cycle, including **Caterpillar stage, butterfly stage**. The reason for having these three periods is that caterpillars and butterflies have different ranges of activities.
 
 ### 4.Key Findings
 #### 4.1 Needs of Caterpillar
 ##### 4.1.1 Living on low shrubs
-First, in the Caterpillar Stage, our key finding is that caterpillars need to hang on small bushes to absorb heat from the ground. So we use geopandas to visualize the distribution of four kinds of ow shrubs. There are four different colors in this map representing these shrubs. Then overlay the distribution and topography to help people better understand the context. Also, rate four types of shrubs, the best for caterpillars to live wins the highest point.
+First, in the Caterpillar Stage, our key finding is that caterpillars need to hang on small bushes to absorb heat from the ground. So we use geopandas to visualize the distribution of four kinds of low shrubs. There are four different colors in this map representing these shrubs. Then overlay the distribution and topography to help people better understand the context. Also, rate four types of shrubs, the best for caterpillars to live wins the highest point.
 
-![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/bush.png) 
-![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c1.png)
+![](https://github.com/sendu123/project_CYPLAN255/blob/gh-pages/drawings/c1%20-%20%E5%89%AF%E6%9C%AC.png) 
+
 
 
 
