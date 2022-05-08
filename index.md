@@ -46,9 +46,11 @@ However, in the study of bay checkerspot butterfly, it was found that they are r
 The key findings focus on habitats that are suitable for three stages of the butterfly's life cycle, including **Caterpillar stage, butterfly stage**. The reason for having these three periods is that caterpillars and butterflies have different ranges of activities.
 
 ### 4.Key Findings
+In this part, we use python to generate to distributions of certain needs and overlay the distribution and topography to help people better understand the context. Also, rate diffrent kinds of needs, the best one for caterpillars or butterflies to live wins the highest point. This rating systerm can halp create the final suitability map in the next step.
+
 #### 4.1 Needs of Caterpillar
 ##### 4.1.1 Living on low shrubs
-First, in the Caterpillar Stage, our key finding is that caterpillars need to hang on small bushes to absorb heat from the ground. So we use geopandas to visualize the distribution of four kinds of low shrubs. There are four different colors in this map representing these shrubs. Then overlay the distribution and topography to help people better understand the context. Also, rate four types of shrubs, the best for caterpillars to live wins the highest point.
+First, in the Caterpillar Stage, our key finding is that caterpillars need to hang on small bushes to absorb heat from the ground. So we use geopandas to visualize the distribution of four kinds of low shrubs. There are four different colors in this map representing these shrubs. 
 
 ![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c_shrub2.png) 
 
