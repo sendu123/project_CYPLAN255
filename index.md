@@ -16,6 +16,8 @@ At the same time, we find that **Bay Checkerspot Butterfly** is a key umbrella s
 
 However, in the study of bay checkerspot butterfly, it was found that they are rapidly declining. It’s imperative and imminent that we should pay more attention to such important species. Therefore, the goal of this project was to create a tool for generating the suitability map and find out where the best places to build butterfly habitats are in San Jose. 
 
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/Google%20map.png)
+
 ### 2.Methodology and Data
 #### 2.1 Methodology and Data
 #### Researching needs of Bay Checkerspot Butterfly
@@ -52,7 +54,7 @@ In this part, we use python to generate to distributions of certain needs and ov
 #### 4.1.1 Living on low shrubs
 First, in the Caterpillar Stage, our key finding is that caterpillars need to hang on small bushes to absorb heat from the ground. So we use geopandas to visualize the distribution of four kinds of low shrubs. There are four different colors in this map representing these shrubs. 
 
-![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c_shrub2.png) 
+![](https://raw.githubusercontent.com/sendu123/project_CYPLAN255/gh-pages/drawings/c_shrub2%20change.png) 
 
 #### 4.1.2 Living near ridgelines
 Caterpillars should be near ridge lines because butterflies need to spawn and mate at ridgelines. So we visualize the distribution of ridge lines through geopandas.
