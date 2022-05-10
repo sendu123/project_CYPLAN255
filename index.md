@@ -134,6 +134,20 @@ Eventually, I used raster calculator to combine all layers to two suitability ma
 
 In the future, these area with the highest scores will have the biggist chance to build a habitat for bay checkerspot butterfly. Once the butterfly species are established, the native plants and animals under the "umbrella" will be protected, and the chance of an ecological future of Silicon Valley will be established.
 
+### 6.References
+
+https://en.wikipedia.org/wiki/Bay_checkerspot_butterfly
+
+https://www.epa.gov/sites/default/files/2013-08/documents/bay-checkerspot-butterfly.pdf
+
+https://www.biologicaldiversity.org/species/invertebrates/Bay_checkerspot_butterfly/index.html
+
+https://ecos.fws.gov/ecp/species/2320
+
+https://friendsofedgewood.org/learn-about-edgewood-park/bay-checkerspot-butterfly
+
+https://creeksidescience.com/projects/bay-checkerspot-butterfly-conservation/
+
 ### Contact
 #### Final project for CYPLAN255
 #### Sen Du (sen_du@berkeley.edu)
